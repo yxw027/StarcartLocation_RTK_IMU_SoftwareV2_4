@@ -1,0 +1,12 @@
+MXT906A Module Update:
+
+1. update firmware: MXT906A-V300C006B002E21261.img
+
+2. update app: starUpdate906A
+   use as: ./starUpdate906A [firmware] [serialport]
+   for example: ./starUpdate906A MXT906A-V300C006B002E21261.img /dev/ttyAMA2
+
+3. update success information:
+   FW Update Successfully.
+
+4. After update success, it can get a ccdhv statement from 906A module.
